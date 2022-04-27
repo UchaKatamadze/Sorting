@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.ucha","l":"App"},{"p":"org.ucha","l":"ExactlyTenTest"},{"p":"org.ucha","l":"Job"},{"p":"org.ucha","l":"MoreThanTenTest"},{"p":"org.ucha","l":"NoInputTest"},{"p":"org.ucha","l":"OneInputTest"}];updateSearchResults();
